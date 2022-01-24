@@ -1,3 +1,3 @@
-#ebay-description{
-    background: red;
+#ebay-description .container.log{
+    max-width: 500px;
 }
